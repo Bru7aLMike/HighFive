@@ -39,4 +39,4 @@ What is done
 -Automated database backups
 -Reworked L2World, L2WorldRegion and L2Object
 
-![](https://vistr.dev/badge?repo=Bru7aLMike.HighFive)
+[](https://vistr.dev/badge?repo=Bru7aLMike.HighFive)
